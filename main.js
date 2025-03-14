@@ -5,7 +5,7 @@ var jogadas = 0;
 var jogador = 'o';
 var vencedor = ' ';
 var fimJogo = false;
-var tab = [];
+var tab = [3];
 
 for (i = 0; i < 3; i++) {
     tab[i] = []; 
